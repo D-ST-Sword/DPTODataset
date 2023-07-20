@@ -7,7 +7,7 @@
 Time series data: Each sample contains 48 cycles of temperatures from six different sensors.
 Image data: Each sample contains a plot of the corresponding time-series data.
 
-If you use this dataset, please cite the work: [paper](https://arxiv.org/pdf/2306.16950v1.pdf)
+#### If you use this dataset, please cite the work: [paper](https://arxiv.org/pdf/2306.16950v1.pdf)
 ```
 @article{qin2023alternative,
   title={Alternative Telescopic Displacement: An Efficient Multimodal Alignment Method},
