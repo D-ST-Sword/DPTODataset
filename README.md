@@ -9,11 +9,14 @@ Image data: Each sample contains a plot of the corresponding time-series data.
 
 #### If you use this dataset, please cite the work: [paper](https://arxiv.org/pdf/2306.16950v1.pdf)
 ```
-@article{qin2023alternative,
-  title={Alternative Telescopic Displacement: An Efficient Multimodal Alignment Method},
-  author={Qin, Jiahao and Xu, Yitao and Liu, Zihong Luo Chengzhi and Lu, Zong and Zhang, Xiaojun},
-  journal={arXiv preprint arXiv:2306.16950},
-  year={2023}
+@misc{qin2024alternativetelescopicdisplacementefficient,
+      title={Alternative Telescopic Displacement: An Efficient Multimodal Alignment Method}, 
+      author={Jiahao Qin and Yitao Xu and Zong Lu and Xiaojun Zhang},
+      year={2024},
+      eprint={2306.16950},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2306.16950}, 
 }
 
 ```
